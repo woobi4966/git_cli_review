@@ -6,3 +6,4 @@
 - status
 - add learned.
 - add branch
+- merged. -> feature
